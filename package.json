@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@prisma/nextjs-monorepo-workaround-plugin": "^4.15.0"
+  }
+}
